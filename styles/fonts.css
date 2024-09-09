@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'lydian-font';
+    src: url("../fonts/LYDIAN__.ttf") format('truetype'),
+}
+
+@font-face {
+    font-family: 'friends-font';
+    src: url("../fonts/GABRWFFR.ttf") format('truetype'),
+}
